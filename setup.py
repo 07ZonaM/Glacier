@@ -9,7 +9,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='Glacier',
-    version=,
+    
     description='Glacier Mapping',
     author='Various',
     author_email='test@test.com',
